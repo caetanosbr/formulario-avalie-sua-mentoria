@@ -1,4 +1,4 @@
-![mentoria](./assets/formulario-avancado.png)
+![mentoria](./formulario_avacado.png)
 
 #
 
@@ -12,4 +12,4 @@ Avançado
 
 ## Deploy
 
-Você pode conferir o projeto rodando [aqui](https://caetanosbr.github.io/formulario-avalie-sua-mentoria/).
+Você pode conferir o projeto rodando [aqui]().

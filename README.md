@@ -1,4 +1,4 @@
-![mentoria](./formulario_avacado.png)
+![mentoria](./assets/formulario-avancado.png)
 
 #
 
